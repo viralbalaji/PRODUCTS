@@ -1,18 +1,22 @@
-{
-  "250 ml MT": {
+[
+  {
+    "description": "250 ml MT",
     "bag": 6,
     "date": "2025-02-16"
   },
-  "500 ml MT": {
+  {
+    "description": "500 ml MT",
     "bag": 10,
     "date": "2025-02-16"
   },
-  "500 ml BT": {
+  {
+    "description": "500 ml BT",
     "bag": 3,
     "date": "2025-02-16"
   },
-  "1000 ml BT": {
+  {
+    "description": "1000 ml BT",
     "bag": 1,
     "date": "2025-02-16"
   }
-}
+]
