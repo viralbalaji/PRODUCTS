@@ -473,5 +473,15 @@
     "description": "250 ml W",
     "bag": 1,
     "date": "2025-02-04"
+  },
+  {
+    "description": "600 ml BT",
+    "bag": 1,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 1,
+    "date": "2025-02-02"
   }
 ]
