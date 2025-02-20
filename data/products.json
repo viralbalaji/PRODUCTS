@@ -90,6 +90,11 @@
     "date": "2025-02-20"
   },
   {
+    "description": "500 ml MT",
+    "bag": 7,
+    "date": "2025-02-02"
+  },
+  {
     "description": "500 ml BT",
     "bag": 6,
     "date": "2025-02-20"
@@ -275,6 +280,11 @@
     "date": "2025-02-04"
   },
   {
+    "description": "500 ml BT",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
     "description": "250 ml BT",
     "bag": 2,
     "date": "2025-02-16"
@@ -413,6 +423,16 @@
     "description": "500 ml BT",
     "bag": 2,
     "date": "2025-02-03"
+  },
+  {
+    "description": "1000 ml MT",
+    "bag": 2,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 2,
+    "date": "2025-02-02"
   },
   {
     "description": "1000 ml BT",
