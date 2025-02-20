@@ -116,6 +116,11 @@
   },
   {
     "description": "300 ml MT",
+    "bag": 6,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "300 ml MT",
     "bag": 5,
     "date": "2025-02-18"
   },
@@ -191,6 +196,16 @@
   },
   {
     "description": "500 ml MT",
+    "bag": 4,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 4,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "500 ml TT",
     "bag": 4,
     "date": "2025-02-02"
   },
