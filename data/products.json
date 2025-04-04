@@ -320,6 +320,11 @@
     "date": "2025-03-29"
   },
   {
+    "description": "500 ml W",
+    "bag": 6,
+    "date": "2025-04-04"
+  },
+  {
     "description": "300 ml MT",
     "bag": 5,
     "date": "2025-02-18"
@@ -1533,6 +1538,11 @@
     "description": "500 ml W",
     "bag": 2,
     "date": "2025-04-02"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 2,
+    "date": "2025-04-04"
   },
   {
     "description": "1000 ml BT",
