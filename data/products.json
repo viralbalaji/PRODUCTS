@@ -195,6 +195,11 @@
     "date": "2025-04-12"
   },
   {
+    "description": "250 ml MT",
+    "bag": 8,
+    "date": "2025-04-14"
+  },
+  {
     "description": "300 ml BT",
     "bag": 7,
     "date": "2025-02-20"
@@ -803,6 +808,11 @@
     "description": "300 ml BT",
     "bag": 4,
     "date": "2025-04-08"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 4,
+    "date": "2025-04-14"
   },
   {
     "description": "150 ml MT",
